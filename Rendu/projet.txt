@@ -1,0 +1,51 @@
+ESN rompu le contrat -> Maintenu a jour par l'ancien prestataire 
+
+75 % Windows 10
+25 % windows 7
+
+Admin de poste -> Commerciaux et directeurs
+
+Serveur Active Directory
+Domaine (meublinot.home)
+serveur de 
+
+fichiers
+Routeur
+
+Chaque poste VPN pour se connecter au siège
+
+Pare-feu -> Propre à chaque boutique
+Wifi (Wifi-Meublinot) Livebox Orange -> Propre à chaque boutique
+
+Système e stockage propre à chaque boutique
+
+Détecte les problème grace utilisateur
+
+
+BUT :
+
+Verifier si un serveur ou un poste subit un dysfonctionnement ou tout autre soucis informatique
+
+Créer système d'alertes en ligne -> Réactif au problème -> ne pas empecher fonctionnement de l'entreprise
+Produit fiable moindre cout
+
+
+Cahier de charges
+1 Contexte et définition du problème
+	Rappels de l’objet du CdC, de son rôle dans le projet.
+2 objectif du projet
+	Énumérer les défauts de l’existant, ses insuffisances, les contraintes réglementaires.
+3 Périmètre du projet
+	
+4 Description fontionnelle des besoins	
+	Les besoins et leur justification : Ce chapitre reprend les exigences, les fonctions de service et les processus.
+	Les acteurs : Utilisateurs primaires, secondaires, administrateurs, exploitants, aide en ligne.
+	Le cycle de vie de la solution : Énumérer les principaux contextes d’utilisation de la future solution.
+5 Enveloppe budgétaire
+
+6 Délais (date de réalisation attentue)
+
+
+
+
+
